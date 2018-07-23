@@ -108,6 +108,11 @@ committers:
         company: 'Tech Mahindra'
         id: 'sanchitap'
         timezone: 'Asia/Kolkata'
+    - name: 'Kevin McDonnell'
+        email: 'kevin.mcdonnell@huawei.com'
+        company: 'Huawei'
+        id: 'kevinmcdonnell'
+        timezone: ''
 tsc:
     approval: 'https://lists.onap.org/pipermail/onap-tsc'
     changes:
