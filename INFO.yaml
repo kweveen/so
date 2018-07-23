@@ -112,7 +112,7 @@ committers:
         email: 'kevin.mcdonnell@huawei.com'
         company: 'Huawei'
         id: 'kevinmcdonnell'
-        timezone: ''
+        timezone: 'Europe/Dublin'
 tsc:
     approval: 'https://lists.onap.org/pipermail/onap-tsc'
     changes:
