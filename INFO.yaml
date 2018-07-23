@@ -20,7 +20,7 @@ meetings:
         server: 'n/a'
         channel: 'n/a'
         repeats: 'weekly'
-        time: '14:00 UTC'
+        time: '14:30 UTC'
 committers:
     - <<: *onap_releng_ptl
     - name: 'Chuanyu Chen'
